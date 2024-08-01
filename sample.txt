@@ -1,1 +1,2 @@
 first line in my file - added from GitHub
+second line in my file - added from local machine
